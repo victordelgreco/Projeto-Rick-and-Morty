@@ -19,13 +19,7 @@ export default function ColorSchemesExample() {
                 Something else here
               </NavDropdown.Item>
             </NavDropdown>
-            <NavDropdown title="Planetas" id="navbarScrollingDropdown">
-              <NavDropdown.Item href="#action3">Planetas</NavDropdown.Item>
-              <NavDropdown.Item href="#action4">
-                Another action
-              </NavDropdown.Item>
 
-            </NavDropdown>
           </Nav>
         </Container>
       </Navbar>

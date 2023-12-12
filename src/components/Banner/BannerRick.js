@@ -1,10 +1,10 @@
-
-import BannerRick from '../../img/banner-rick.jpg'
+import BannerRick from '../../img/banner-morty.jpg'
+import '../Banner/BannerRick.css'
 
 export default function BannerImg() {
 
     return (
-        <div>
+        <div className='container-banner' >
             <img src={BannerRick}   style={{
     width: '100%',
     height: '100%',
