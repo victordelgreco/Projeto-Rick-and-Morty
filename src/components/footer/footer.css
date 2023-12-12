@@ -1,0 +1,33 @@
+.container_footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #212529;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 6vh;
+}
+
+.social_midia_list_icons{
+    display: flex;
+    list-style: none;
+    margin: 0;
+
+}
+
+.social_midia_list_icons svg{
+    font-size: 2.0em;
+    width: 30px;
+    height: 30px;
+    color: white;
+    cursor: pointer;
+    padding: 5;
+    transition: transform 0.2s ease;
+}
+
+.social_midia_list_icons svg:hover{
+    font-size: 2.2em;
+    
+    transform: scale(1.2);
+}
