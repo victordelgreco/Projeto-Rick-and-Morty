@@ -1,0 +1,20 @@
+[33md9aeaf6[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{0}: checkout: moving from master to origin/master
+[33md9aeaf6[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{1}: checkout: moving from main to master
+[33md321175[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{2}: checkout: moving from d9aeaf621b152af60133864b021c14744d11bbf0 to main
+[33md9aeaf6[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{3}: checkout: moving from master to origin/master
+[33md9aeaf6[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{4}: checkout: moving from d9aeaf621b152af60133864b021c14744d11bbf0 to master
+[33md9aeaf6[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{5}: checkout: moving from d3211755af4b283a58bb5951ac4b727ed80fc367 to origin/master
+[33md321175[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{6}: checkout: moving from d9aeaf621b152af60133864b021c14744d11bbf0 to origin/main
+[33md9aeaf6[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{7}: checkout: moving from master to origin/master
+[33md9aeaf6[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{8}: checkout: moving from main to master
+[33md321175[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{9}: checkout: moving from master to main
+[33md9aeaf6[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{10}: checkout: moving from main to master
+[33md321175[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{11}: checkout: moving from master to main
+[33md9aeaf6[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{12}: checkout: moving from d3211755af4b283a58bb5951ac4b727ed80fc367 to master
+[33md321175[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{13}: checkout: moving from master to origin/main
+[33md9aeaf6[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{14}: checkout: moving from d3211755af4b283a58bb5951ac4b727ed80fc367 to master
+[33md321175[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{15}: checkout: moving from 21a5dd8e511713b45a888ed4eee78684bbedfbe2 to origin/main
+[33m21a5dd8[m HEAD@{16}: commit: Criação do Rodapé e adicionei algumas alterações aos cards, passando novas propriedades e adicionando uma tabela dentro do card.
+[33md9aeaf6[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{17}: checkout: moving from master to origin/master
+[33md9aeaf6[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{18}: commit: Alterações no componente Card, passando a propriedade filho do componente Cards(pai), dentro do componente Cards, utilizei um objeto pra receber os dados e renderizar uma lista de cards na tela.
+[33m94ece11[m HEAD@{19}: clone: from https://github.com/victordelgreco/Projeto-Rick-and-Morty.git
